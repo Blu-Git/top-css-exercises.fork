@@ -1,0 +1,45 @@
+/* My Solution
+.class {
+    background-color: #ffcccb;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+#id-1 {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.class.class-2 {
+    font-size:  24px;
+}
+
+#id-2 {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
+*/
+
+/* New Solution */
+
+.class {
+    background-color:  #ffcccb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    /* All fonts that are verdana will become dejavu with sans-serif as fall back*/
+}
+
+#id-1 {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.class-2 {
+    font-size: 24px;
+}
+
+#id-2 {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
